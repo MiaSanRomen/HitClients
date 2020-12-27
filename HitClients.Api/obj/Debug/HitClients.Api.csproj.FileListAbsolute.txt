@@ -1,0 +1,11 @@
+G:\HitClients\HitClients\HitClients.Api\bin\Debug\HitClients.Api.dll
+G:\HitClients\HitClients\HitClients.Api\bin\Debug\HitClients.Api.pdb
+G:\HitClients\HitClients\HitClients.Api\bin\Debug\Newtonsoft.Json.dll
+G:\HitClients\HitClients\HitClients.Api\bin\Debug\RestSharp.dll
+G:\HitClients\HitClients\HitClients.Api\bin\Debug\Newtonsoft.Json.xml
+G:\HitClients\HitClients\HitClients.Api\bin\Debug\RestSharp.xml
+G:\HitClients\HitClients\HitClients.Api\obj\Debug\HitClients.Api.csprojAssemblyReference.cache
+G:\HitClients\HitClients\HitClients.Api\obj\Debug\HitClients.Api.csproj.CoreCompileInputs.cache
+G:\HitClients\HitClients\HitClients.Api\obj\Debug\HitClients.Api.csproj.CopyComplete
+G:\HitClients\HitClients\HitClients.Api\obj\Debug\HitClients.Api.dll
+G:\HitClients\HitClients\HitClients.Api\obj\Debug\HitClients.Api.pdb
