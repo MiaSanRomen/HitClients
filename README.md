@@ -7,6 +7,9 @@ In development used and created:
 - Settings loads from JSON fyle
 - App has the special design (contains DockContent)
 - It displays list of all availiable cryptocurrency
-- After user selects currency app shows the step schedule (candles)
+- List updates every second, to show in color if currency cost up (green) or down (red)
+- After user selects currency app shows the step chart (candles). Chart shows last cost changes.
 - After the authentication user can create orders for trading
+- Orders can be 2 types: single(market) or continious (limit)
+- When app work is finished, it saves its settings to JSON fyle, login and password alco can be saved
 ```
