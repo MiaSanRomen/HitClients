@@ -13,3 +13,5 @@ In development used and created:
 - Orders can be 2 types: single(market) or continious (limit)
 - When app work is finished, it saves its settings to JSON fyle, login and password alco can be saved
 ```
+
+- Done in 2018
